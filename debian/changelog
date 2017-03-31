@@ -1,5 +1,12 @@
-kavantum-theme-kvnomad (1.0-1) unstable; urgency=medium
+kvantum-theme-kvnomad (1.1-1) nxos; urgency=medium
 
+  * [FIX] Typo in package name, "kavantum-theme-kvnomad" now on "kvantum-theme-kvnomad"
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Fri, 31 Mar 2017 19:19:07 +0000
+
+kvantum-theme-kvnomad (1.0-1) nxos; urgency=medium
+
+  [ Alexis Lopez Zubieta ]
   * Initial release
 
- -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Wed, 22 Mar 2017 01:49:43 +0000
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Fri, 31 Mar 2017 19:19:00 +0000
