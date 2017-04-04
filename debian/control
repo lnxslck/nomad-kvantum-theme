@@ -8,6 +8,6 @@ Vcs-Git: https://github.com/nomad-shell/nomad-kvantum-theme.git
 
 Package: kvantum-theme-kvnomad
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, kavantum
+Depends: ${shlibs:Depends}, ${misc:Depends}, kvantum
 Description: KvNomad theme
  Kvantum theme for Nomad Shell
