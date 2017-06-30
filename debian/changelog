@@ -1,3 +1,9 @@
+kvantum-theme-kvnomad (1.3-1) nxos; urgency=medium
+
+  * Added dark theme.
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Fri, 30 Jun 2017 18:23:45 -0500
+
 kvantum-theme-kvnomad (1.2-1) nxos; urgency=medium
 
   [ Alexis Lopez Zubieta ]
